@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talyaron (Tal Yaron)
 - 👀 I’m interested in deliberative democracy
-- 🌱 I’m currently teaching web full-stack development, and the R&D of [INT College]https://www.int-college.co.il/.
+- 🌱 I’m currently teaching web full-stack development, and the R&D of [INT College](https://www.int-college.co.il).
 - 💞️ I’m looking to collaborate on deliberative democracy apps
 - 📫 You can reach me on tal.yaron at gmail
 
