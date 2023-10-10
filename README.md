@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talyaron (Tal Yaron)
 - 👀 I’m interested in deliberative democracy
-- 🌱 I’m currently teaching web development
+- 🌱 I’m currently teaching web full-stack development
 - 💞️ I’m looking to collaborate on deliberative democracy apps
 - 📫 You can reach me on tal.yaron at gmail
 
