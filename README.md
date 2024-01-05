@@ -3,7 +3,7 @@
 I'm [@talyaron](https://github.com/talyaron), also known as Tal Yaron.
 
 - 👀 I'm passionate about deliberative democracy. I am the founder of [Delib.org](https://delib.org).
-- 🌱 Currently, I'm engaged in teaching web full-stack development and the head of R&D at [INT College](https://www.int-college.co.il).
+- 🌱 Currently, I'm engaged in teaching web full-stack development, and I am the head of R&D at [INT College](https://www.int-college.co.il).
 - 💞️ I'm actively seeking collaborations on projects related to deliberative democracy apps.
 - 📫 Reach out to me at tal.yaron@gmail.com.
 
